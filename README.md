@@ -5,11 +5,11 @@
 # 🎰 daily-slop-games
 
 <a href="https://github.com/teobot/daily-slop-games">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F75C7E&center=true&vCenter=true&width=520&lines=one+tab.+thirty+daily+games.;guess+the+thing.+share+the+grid.;procrastination%2C+curated." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F75C7E&center=true&vCenter=true&width=520&lines=one+tab.+thirty-one+daily+games.;guess+the+thing.+share+the+grid.;procrastination%2C+curated." alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/games-30-ff69b4?style=for-the-badge&logo=gamejolt&logoColor=white" alt="games" />
+  <img src="https://img.shields.io/badge/games-31-ff69b4?style=for-the-badge&logo=gamejolt&logoColor=white" alt="games" />
   <img src="https://img.shields.io/badge/productivity-0%25-red?style=for-the-badge" alt="productivity" />
   <img src="https://img.shields.io/github/stars/teobot/daily-slop-games?style=for-the-badge&color=yellow" alt="stars" />
   <img src="https://img.shields.io/github/last-commit/teobot/daily-slop-games?style=for-the-badge&color=blueviolet" alt="last commit" />
@@ -57,6 +57,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=gamedle.wtf&sz=32" width="20" /> | **Gamedle** | [gamedle.wtf](https://www.gamedle.wtf/?lang=en#) |
 | <img src="https://www.google.com/s2/favicons?domain=mcdle.net&sz=32" width="20" /> | **MCdle** | [mcdle.net](https://www.mcdle.net/en_gb) |
 | <img src="https://www.google.com/s2/favicons?domain=autoguessr.com&sz=32" width="20" /> | **AutoGuessr** | [autoguessr.com](https://autoguessr.com/) |
+| <img src="https://www.google.com/s2/favicons?domain=angle.wtf&sz=32" width="20" /> | **Angle** | [angle.wtf](https://angle.wtf/) |
 
 <p align="right"><a href="#top">⬆️ back to top</a></p>
 
