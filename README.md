@@ -41,6 +41,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=nytimes.com&sz=32" width="20" /> | **NYT Crossword** | [nytimes.com/crosswords](https://www.nytimes.com/crosswords) |
 | <img src="https://www.google.com/s2/favicons?domain=lessgames.com&sz=32" width="20" /> | **Less Games** | [lessgames.com](https://lessgames.com/) |
 | <img src="https://www.google.com/s2/favicons?domain=magnitudle.com&sz=32" width="20" /> | **Magnitudle: Size It Up** | [magnitudle.com](https://magnitudle.com/size-it-up) |
+| <img src="https://www.google.com/s2/favicons?domain=plaingame.fun&sz=32" width="20" /> | **Plain Game** | [plaingame.fun](https://plaingame.fun/) |
 | <img src="https://www.google.com/s2/favicons?domain=contexto.me&sz=32" width="20" /> | **Contexto** | [contexto.me](https://contexto.me/en/) |
 | <img src="https://www.google.com/s2/favicons?domain=guessable.gg&sz=32" width="20" /> | **Guessable** | [guessable.gg](https://guessable.gg/) |
 | <img src="https://www.google.com/s2/favicons?domain=dialed.gg&sz=32" width="20" /> | **Dialed** | [dialed.gg](https://dialed.gg/) |
