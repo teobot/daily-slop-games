@@ -5,11 +5,11 @@
 # 🎰 daily-slop-games
 
 <a href="https://github.com/teobot/daily-slop-games">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F75C7E&center=true&vCenter=true&width=520&lines=one+tab.+thirty-one+daily+games.;guess+the+thing.+share+the+grid.;procrastination%2C+curated." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F75C7E&center=true&vCenter=true&width=520&lines=one+tab.+thirty-two+games.;guess+the+thing.+share+the+grid.;procrastination%2C+curated." alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/games-31-ff69b4?style=for-the-badge&logo=gamejolt&logoColor=white" alt="games" />
+  <img src="https://img.shields.io/badge/games-32-ff69b4?style=for-the-badge&logo=gamejolt&logoColor=white" alt="games" />
   <img src="https://img.shields.io/badge/productivity-0%25-red?style=for-the-badge" alt="productivity" />
   <img src="https://img.shields.io/github/stars/teobot/daily-slop-games?style=for-the-badge&color=yellow" alt="stars" />
   <img src="https://img.shields.io/github/last-commit/teobot/daily-slop-games?style=for-the-badge&color=blueviolet" alt="last commit" />
@@ -66,7 +66,7 @@
 <sub>Not daily, but absolutely worth your time — games, puzzles and oddities.</sub>
 
 <details open>
-<summary><b>Show the good stuff (7)</b></summary>
+<summary><b>Show the good stuff (8)</b></summary>
 <br />
 
 | | Game | Link |
@@ -78,6 +78,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=puzzlemadness.co.uk&sz=32" width="20" /> | **Train Tracks** | [puzzlemadness.co.uk](https://puzzlemadness.co.uk/traintracks/medium) |
 | <img src="https://www.google.com/s2/favicons?domain=nerdlegame.com&sz=32" width="20" /> | **Nerdle** | [nerdlegame.com](https://nerdlegame.com/) |
 | <img src="https://www.google.com/s2/favicons?domain=spotle.io&sz=32" width="20" /> | **Spotle** | [spotle.io](https://spotle.io/) |
+| <img src="https://www.google.com/s2/favicons?domain=pufferparty.org&sz=32" width="20" /> | **Puffer Party** | [pufferparty.org](https://pufferparty.org/) |
 
 </details>
 
