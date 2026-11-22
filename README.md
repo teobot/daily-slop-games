@@ -58,6 +58,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=mcdle.net&sz=32" width="20" /> | **MCdle** | [mcdle.net](https://www.mcdle.net/en_gb) |
 | <img src="https://www.google.com/s2/favicons?domain=autoguessr.com&sz=32" width="20" /> | **AutoGuessr** | [autoguessr.com](https://autoguessr.com/) |
 | <img src="https://www.google.com/s2/favicons?domain=angle.wtf&sz=32" width="20" /> | **Angle** | [angle.wtf](https://angle.wtf/) |
+| <img src="https://www.google.com/s2/favicons?domain=anykrillion.com&sz=32" width="20" /> | **AnyKrillion** | [anykrillion.com](https://anykrillion.com/) |
 
 <p align="right"><a href="#top">⬆️ back to top</a></p>
 
